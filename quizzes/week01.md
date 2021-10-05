@@ -1,31 +1,31 @@
 # Foundations of Web Development
 
 **1.** In the terminal, what is the command `cd` used for?
-<!-- enter you answer in the space below -->
+change directory
 ```
 
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
-<!-- enter you answer in the space below -->
+make new directory
 ```
 
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
-<!-- enter you answer in the space below -->
+it is used in the beginning and the end of the HTML document
 ```
 
 ```
 
 **4.** What does `HTML` stand for?
-<!-- enter you answer in the space below -->
+hyper text markup language
 ```
 
 ```
 
 **5.** What Does `CSS` stand for?
-<!-- enter you answer in the space below -->
+cascading style sheets
 ```
 
 ```
@@ -36,19 +36,19 @@
    color : rgba(255, 210, 33, .75);
  }
 ```
-<!-- enter you answer in the space below -->
+selector, property, and value
 ```
 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
-<!-- enter you answer in the space below -->
+font-weight: bold
 ```
 
 ```
 
 **8.** In what tag does the majority of your code belong?
-<!-- enter you answer in the space below -->
+body
 ```
 
 ```
