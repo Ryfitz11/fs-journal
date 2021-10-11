@@ -54,19 +54,21 @@ body
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
-<!-- enter you answer in the space below -->
+<ul> makes list with bullets (used before and after all the listed items)
+<ol> makes numbered list (used before and after all the listed items)
+<li> used before each listed item
 ```
 
 ```
 
 **10.** Define the display `:flex property:`
-<!-- enter you answer in the space below -->
+The flex property changes how much spcae items will stretch to when they have the space to do so.
 ```
 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
-<!-- enter you answer in the space below -->
+padding and margin
 ```
 
 ```
