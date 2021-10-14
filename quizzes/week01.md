@@ -63,6 +63,7 @@ body
 
 **10.** Define the display `:flex property:`
 The flex property changes how much spcae items will stretch to when they have the space to do so.
+
 ```
 
 ```
