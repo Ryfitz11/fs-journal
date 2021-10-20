@@ -68,8 +68,16 @@ HTML
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
-```
-
+```  
+Boolean 
+Null 
+Undefined 
+Number   
+String 
+Symbol
+Dynamic
+Primitive
+Objects
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 

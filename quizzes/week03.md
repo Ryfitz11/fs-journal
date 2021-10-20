@@ -1,9 +1,11 @@
 # Application Architecture, MVC Design Pattern
 
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
-<!-- enter you answer in the space below -->
 ```
-
+Encapsulation - every object has its own private state.
+Abstraction - the process of selecting only relevant data.
+Inheritance - some objects may inherit properties from other objects
+Polymorphism - we can use a class exactly like its parent so there is no confusion with mixing types.
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
@@ -24,14 +26,12 @@ let property = 'name'
 
 ```
 **4.** What does the S stand for in the `SOLID` principles?
-<!-- enter you answer in the space below -->
 ```
-
+Single resposibility principle - every class should have only one responsibility
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
-<!-- enter you answer in the space below -->
 ```
-
+the instance of the class can not modify the original class. 
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
